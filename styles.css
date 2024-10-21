@@ -42,3 +42,7 @@ body {
   border-radius: 5px;
   font-weight: bold;
 }
+
+div {
+	background-color: rgb(46, 204, 113);
+}
